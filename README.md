@@ -1,10 +1,11 @@
 ![](../../workflows/wokwi/badge.svg)
 
-Go to https://tinytapeout.com for instructions!
-
-
 Click to watch a small simulation of the chip or play with it here: https://wokwi.com/projects/341277789473735250
 [![Watch the video](https://i.imgur.com/AZduZRk.png)](https://youtu.be/gjoFz0gdG38)
+
+
+Go to https://tinytapeout.com for instructions!
+
 
 # How to change the Wokwi project
 

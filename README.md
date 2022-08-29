@@ -2,6 +2,8 @@
 
 Go to https://tinytapeout.com for instructions!
 
+[![Watch the video](https://i.imgur.com/AZduZRk.png)](https://youtu.be/gjoFz0gdG38)
+
 # How to change the Wokwi project
 
 Edit the [Makefile](Makefile) and change the WOKWI_PROJECT_ID to match your project.

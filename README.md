@@ -1,5 +1,10 @@
 ![](../../workflows/wokwi/badge.svg)
 
+![image](https://user-images.githubusercontent.com/6376127/188603749-4811e748-266d-48dc-b3e4-9fbf04a3c65b.png)
+
+![image](https://user-images.githubusercontent.com/6376127/188603788-f3e45533-840e-4fe5-b33d-479c23b1f020.png)
+
+
 Click to watch a small simulation of the chip or play with it here: https://wokwi.com/projects/341277789473735250
 [![Watch the video](https://i.imgur.com/AZduZRk.png)](https://youtu.be/gjoFz0gdG38)
 

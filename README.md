@@ -4,7 +4,7 @@
 
 
 
-Click to watch a small simulation of the chip or play with it here: https://wokwi.com/projects/341277789473735250
+Click on the image to watch a small simulation of the chip on youtube or play with it here: https://wokwi.com/projects/341277789473735250
 [![Watch the video](https://i.imgur.com/AZduZRk.png)](https://youtu.be/gjoFz0gdG38)
 
 
